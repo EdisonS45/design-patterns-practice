@@ -1,7 +1,3 @@
-Here’s a clean, beautiful, and beginner-friendly **README** template for your *Design Patterns Practice* repository:
-
----
-
 # **Design Patterns in Java Practice** 🚀
 
 Welcome to my **Design Patterns Practice Repository**! This repository contains Java-based implementations of commonly used **Design Patterns**, which I am learning and practicing to strengthen my understanding of Object-Oriented Design principles.
@@ -99,12 +95,6 @@ design-patterns-practice/
 This is a personal learning repository, but if you have any suggestions or ideas for improvement, feel free to:
 - Open an issue
 - Submit a pull request
-
----
-
-## **Acknowledgments** 🙌
-
-- Resources like **Head First Design Patterns**, online tutorials, and documentation have been great references during this practice.
 
 ---
 
